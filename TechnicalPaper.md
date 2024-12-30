@@ -20,3 +20,7 @@ Event Sourcing is a way of storing the state of an application. Instead of savin
 
 ## Final Thoughts
 - Event Sourcing gives a  reliable and way to track how things change over time. It helps keep systems flexible and resilient.
+
+
+
+Reference site :- https://martinfowler.com/eaaDev/EventSourcing.html?utm_source
