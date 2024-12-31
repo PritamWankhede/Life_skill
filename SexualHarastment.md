@@ -1,16 +1,38 @@
-# Sexual Harassment: Key Points
+# Sexual Harassment: Key Questions and Answers
 
-## What Causes Sexual Harassment?
+## 1. What kinds of behavior cause sexual harassment?
+- **Unwanted Flirting**: Repeated advances or requests after being told no.  
+- **Touching Without Consent**: Physical contact that is not welcomed.  
+- **Offensive Language**: Saying inappropriate jokes or remarks.  
+- **Inappropriate Sharing**: Sending or showing explicit images or messages.  
 
-- **Unwanted Advances**: Repeated unwanted flirting or requests.
-- **Inappropriate Touching**: Unwelcome physical contact.
-- **Sexual Comments**: Offensive jokes or remarks about someone's appearance or behavior.
-- **Explicit Content**: Sharing or showing inappropriate sexual images or videos.
+## 2. What would you do in case you face or witness any incident of such behavior?
+- **Speak Up**: Politely but firmly tell the person to stop.  
+- **Record Details**: Write down what happened, including dates and witnesses.  
+- **Report It**: Notify HR or your manager immediately.  
+- **Support the Victim**: Help them report if they are afraid to do so.  
 
-## What to Do if You Face or See Harassment
+## 3.What Does Bullying and Harassment Mean for You and Your Workplace?
+- **Bullying**: Repeated mean behavior that hurts someone mentally or physically.  
+- **Harassment**: Unwanted actions that make someone feel uncomfortable or scared.  
+   ## Impact:
+- **On You**: Causes stress, health issues, and low confidence.  
+- **On Workplace**: Lowers productivity, teamwork, and creates a toxic environment.  
 
-1. **Report It**: Tell HR or your boss right away.
-2. **Write It Down**: Keep a record of what happened, with dates and details.
-3. **Get Help**: Talk to a counselor or someone you trust.
-4. **Check Progress**: Make sure the problem is being handled properly.
-5. **Stay Safe**: Call the police if you feel unsafe or the situation is serious.
+## 4. Explains different scenarios enacted by actors.
+- **Repeated Requests**: Someone constantly asking another person out despite refusal.  
+- **Inappropriate Jokes**: Making comments about someone's appearance in a rude way.  
+- **Touching Boundaries**: Hugging or touching a coworker without their consent.  
+- **Misusing Authority**: A boss linking promotions to personal favors.  
+
+## 5. How to handle cases of harassment?
+- **Stay Calm**: Don’t panic and take time to think.  
+- **Report Immediately**: Inform HR or someone in authority.  
+- **Gather Evidence**: Save messages, emails, or any proof of the incident.  
+- **Seek Help**: Get support from trusted colleagues or legal professionals.  
+
+## 6. How to behave appropriately?
+- **Respect Others**: Always ask before any physical interaction.  
+- **Keep It Professional**: Focus on work-related conversations.  
+- **Avoid Personal Jokes**: Don’t make comments about someone’s looks or private life.  
+- **Be Observant**: If someone looks uncomfortable, stop the behavior.  
